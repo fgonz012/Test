@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cards>
+<CardList CardType="Unit">
+	<Card>
+		<Name>Vanguard Defender</Name>
+		<CardID>VanguardDefender</CardID>
+		<Cost>2</Cost>
+		<Defense>2</Defense>
+		<Attack>2</Attack>
+		<Keywords>[Tough]</Keywords>
+		<Region>[Demacia]</Region>
+		<Rarity>Common</Rarity>
+		<Families>Elite</Families>
+		<UnitType>Follower</UnitType>
+		<Expansion>Set1</Expansion>
+		<ID>01DE020</ID>
+		<Art1>'/LoR/CardImages/Set1/01DE020.webp'</Art1>
+		<DateAdded>4/16/24</DateAdded>
+		<Text></Text>
+	</Card><Card>
+		<Name>Vanguard Cavalry</Name>
+		<CardID>VanguardCavalry</CardID>
+		<Cost>5</Cost>
+		<Defense>5</Defense>
+		<Attack>5</Attack>
+		<Keywords>[Tough]</Keywords>
+		<Region>[Demacia]</Region>
+		<Rarity>Common</Rarity>
+		<Families>Elite</Families>
+		<UnitType>Follower</UnitType>
+		<Expansion>Set1</Expansion>
+		<ID>01DE028</ID>
+		<Art1>'/LoR/CardImages/Set1/01DE028.webp'</Art1>
+		<DateAdded>4/16/24</DateAdded>
+		<Text></Text></Card>
+	<Card>
+		<Name>Garen</Name>
+		<CardID>Garen1</CardID>
+		<Cost>5</Cost>
+		<Defense>5</Defense>
+		<Attack>5</Attack>
+		<Keywords>[Regeneration]</Keywords>
+		<Region>[Demacia]</Region>
+		<Rarity>Champion</Rarity>
+		<Families>Elite</Families>
+		<UnitType>Champion</UnitType>
+		<Expansion>Set1</Expansion>
+		<ID>01DE012</ID>
+		<Art1>TBD</Art1>
+		<DateAdded>4/16/24</DateAdded>
+		<Text>When I'm summoned, give other allies +1|+1 this round.</Text>
+	</Card>
+	<Card>
+		<Name>Garen</Name>
+		<CardID>Garen2</CardID>
+		<Cost>5</Cost>
+		<Defense>6</Defense>
+		<Attack>6</Attack>
+		<Keywords>[Regeneration]</Keywords>
+		<Region>[Demacia]</Region>
+		<Rarity>Champion</Rarity>
+		<Families>Elite</Families>
+		<UnitType>Champion</UnitType>
+		<Expansion>Set1</Expansion>
+		<ID>01DE012T1</ID>
+		<Art1>TBD</Art1>
+		<DateAdded>4/16/24</DateAdded>
+		<Text>When I'm summoned, give other allies +1|+1 this round. Round Start: Rally.</Text>
+	</Card>
+	<Card>
+		<Name>King Jarvan III</Name>
+		<CardID>KingJarvanIII</CardID>
+		<Cost>7</Cost>
+		<Defense>6</Defense>
+		<Attack>5</Attack>
+		<Keywords>[Tough]</Keywords>
+		<Region>[Demacia]</Region>
+		<Rarity>Epic</Rarity>
+		<Families>Elite</Families>
+		<UnitType>Follower</UnitType>
+		<Expansion>Set4</Expansion>
+		<ID>04DE010</ID>
+		<Art1>'TBD'</Art1>
+		<DateAdded>4/16/24</DateAdded>
+		<Text>When I'm summoned draw Jarvan IV. If he's already in play, instead give allies Challenger and Scout this round.</Text>
+	</Card>
+</CardList>
+<CardList CardType="Spell">
+	<Card Name="Deny">
+		<Name>Deny</Name>
+		<Cost>4</Cost>
+		<Region>['Ionia']</Region>
+		<Rarity>Rare</Rarity>
+		<Expansion>Set1</Expansion>
+		<ID>01IO049</ID>
+		<Art1>'TBD'</Art1>
+	</Card>
+</CardList>
+</Cards>
